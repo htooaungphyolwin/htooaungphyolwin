@@ -88,6 +88,7 @@ Here are some ideas to get you started:
 ## I usually use these IDEs/Editors 💻
 
 <div width="40">
+     
 | Name      | Badge |
 | ----------- | ----------- |
 | IntelliJ IDEA      | <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white&color=red" />      |
@@ -101,6 +102,7 @@ Here are some ideas to get you started:
 | Emacs | <img src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white" /> |
 | Vim | <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" /> |
 | Xcode | <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" /> |
+     
 </div>
 
 
