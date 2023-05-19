@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <img  src="https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white" />
 
 <!-- Languages -->
-## I'm learning these languages in depth 🚀
+## I'm learning these languages in depth  🚀
 
 <img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
@@ -69,6 +69,12 @@ Here are some ideas to get you started:
 <img align="left" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
 <img src="https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white" />
 
+## I learned to improve my programming skills from these websites 👨🏻‍💻
+
+<img align="left" src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A" />
+<img align="left" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" />
+<img align="left" src="https://img.shields.io/badge/Skill%20share-002333?style=for-the-badge&logo=skillshare&logoColor=00FF84" />
+<img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lwin2000-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
