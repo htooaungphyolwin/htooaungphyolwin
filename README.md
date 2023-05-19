@@ -103,7 +103,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="left" >
-<img width="45%"
+<img width="43%"
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lwin2000-dev&langs_count=10&show_icons=true&theme=tokyonight&border_radius=10" />
 </div>
 
