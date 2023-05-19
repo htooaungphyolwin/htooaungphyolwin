@@ -77,6 +77,13 @@ Here are some ideas to get you started:
 <img align="left" src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" />
 <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" />
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lwin2000-dev&layout=compact&show_icons=true&theme=tokyonight&border_radius=10" />
+<div align="center">
+     <img align="center"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=lwin2000-dev&langs_count=10&show_icons=true&theme=tokyonight&border_radius=10" />
+</div>
+
+
+
+
 
 
