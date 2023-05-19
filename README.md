@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="left" width="47%" height="250px" 
+<img align="left" width="47%" height="200px" 
      src="https://github-readme-stats.vercel.app/api?username=lwin2000-dev&show_icons=true&theme=tokyonight" />
 
-<img align="right" width="47%" height="250px" 
+<img align="right" width="47%" height="200px" 
      src="https://streak-stats.demolab.com?user=lwin2000-dev&theme=tokyonight&border_radius=4.5" />
 
 <img align="left" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
