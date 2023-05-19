@@ -77,17 +77,14 @@ Here are some ideas to get you started:
 <img align="left" src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" />
 <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" />
 
-<div align="center">
-     <img align="center"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=lwin2000-dev&langs_count=10&show_icons=true&theme=tokyonight&border_radius=10" />
-</div>
+
 
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=lwin2000-dev&theme=tokyonight&repo=tailwind-mini-5-projects" /> -->
 
 ## I usually use these IDEs/Editors 💻
 
-<div width="40">
+<div align="left" width="50%">
      
 | Name      | Badge |
 | ----------- | ----------- |
@@ -102,7 +99,12 @@ Here are some ideas to get you started:
 | Emacs | <img src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white" /> |
 | Vim | <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" /> |
 | Xcode | <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" /> |
-     
+    
+</div>
+
+<div>
+<img align="left"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=lwin2000-dev&langs_count=10&show_icons=true&theme=tokyonight&border_radius=10" />
 </div>
 
 
