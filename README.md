@@ -23,10 +23,15 @@
 <img src="https://skillicons.dev/icons?i=react,electron,nextjs,vue,pinia,nuxtjs,nodejs,express,laravel,alpinejs,bootstrap,tailwind">
 
 <h3>🧶Databases🧶</h3>
-   <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,postgres,firebase,supabase,mongodb">
+   <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,firebase,supabase,mongodb">
 
 <h3>⛰️ Hosting ⛰️</h3>
    <img src="https://skillicons.dev/icons?i=vercel,netlify">
+
+<h3>🔭 Tools 🔭</h3>
+   <img src="https://skillicons.dev/icons?i=vscode,neovim,postman,git,github">
+<br>
+   <img src="https://skillicons.dev/icons?i=notion,obsidian" />
 
 </div>
 
@@ -41,24 +46,3 @@
 <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" />
 
 </div>
-
-<br>
-
-| 💻 IDEs/Editors 💻 | 🔭 Tools 🔭 |
-| ------------------ | ---------- |
-| **Visual Studio Code** <br><br> <img src="https://skillicons.dev/icons?i=vscode" /> | **Postman** <br><br> <img src="https://skillicons.dev/icons?i=postman" /> |
-| **Sublime Text** <br><br> <img src="https://skillicons.dev/icons?i=sublime" /> | **GitHub** <br><br> <img src="https://skillicons.dev/icons?i=github" /> |
-| **NetBeans IDE** <br><br> <img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" /> | **Notion** <br><br> <img src="https://skillicons.dev/icons?i=notion" /> |
-| **Emacs** <br><br> <img src="https://skillicons.dev/icons?i=emacs" /> | **Obsidian** <br><br> <img src="https://skillicons.dev/icons?i=obsidian" /> |
-| **Vim** <br><br> <img src="https://skillicons.dev/icons?i=vim,neovim" /> |              |
-
-
-<!-- | Android Studio | <img src="https://skillicons.dev/icons?i=androidstudio" /> |
-| Xcode | <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" /> | -->
-
-
-<!-- <div align="center">
-<img
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=htooaungphyolwin&langs_count=10&show_icons=true&theme=tokyonight&border_radius=10" />
-</div>
-</div> -->
