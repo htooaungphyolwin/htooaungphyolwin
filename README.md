@@ -22,7 +22,7 @@
 
 <img src="https://skillicons.dev/icons?i=react,electron,nextjs,vue,pinia,nuxtjs,nodejs,express,laravel,alpinejs,bootstrap,tailwind">
 
-<h3>🧶Databases🧶</h3>
+<h3>📦 Databases 📦</h3>
    <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,firebase,supabase,mongodb">
 
 <h3>⛰️ Hosting ⛰️</h3>
