@@ -42,6 +42,10 @@
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
 <table style="flex: 1; width: 100%; margin: 10px;">
         <tr>
+             <td><a target="_blank" href="https://star-patterns.vercel.app/"><img src="https://htooaungphyolwin.vercel.app/projects/star_patterns_logo.png" width=50
+height=50></a></td>
+             <td><a target="_blank" href="https://heco-ui.vercel.app/"><img src="https://htooaungphyolwin.vercel.app/projects/heco_ui_logo.png" width=50
+height=50></a></td>
 <td><a target="_blank" href="https://bright-flow.vercel.app/"><img src="https://htooaungphyolwin.vercel.app/projects/bright_flow_v1_logo.png" width=50
 height=50></a></td>
             <td><a target="_blank" href="https://typing-mm.vercel.app/"><img src="https://htooaungphyolwin.vercel.app/projects/typing_speed_test_logo.png" width=50
