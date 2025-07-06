@@ -28,7 +28,7 @@
 
 <h2></h2>
 <div style="display: flex; align-items: center" width="100%">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=htooaungphyolwin&theme=onedark&show_icons=true&hide_border=true&count_private=true">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=htooaungphyolwin&theme=onedark&show_icons=true&hide_border=true&count_private=true&rank_icon=github">
   <img width="51%"
      src="https://streak-stats.demolab.com?user=htooaungphyolwin&theme=onedark&hide_border=true&border_radius=3.8" />
 </div>
