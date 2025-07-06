@@ -33,5 +33,14 @@
      src="https://streak-stats.demolab.com?user=htooaungphyolwin&theme=onedark&hide_border=true&border_radius=3.8" />
 </div>
 
+<div  width="100%">
+  <img width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=htooaungphyolwin&layout=compact&theme=onedark&hide_border=true" />
+  <img width="65%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=htooaungphyolwin&theme=onedark" />
+</div>
+
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=htooaungphyolwin&layout=compact&theme=onedark&hide_border=true)
+
 <img height="180px" width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=htooaungphyolwin&theme=onedark" />
+-->
 
