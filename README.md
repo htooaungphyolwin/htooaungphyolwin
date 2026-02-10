@@ -28,18 +28,21 @@
 
 <h2></h2>
 <div style="display: flex; align-items: center" width="100%">
+  <img width="90%"
+     src="https://streak-stats.demolab.com?user=htooaungphyolwin&theme=onedark&hide_border=true&border_radius=3.8" />
+  <!--
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=htooaungphyolwin&theme=onedark&show_icons=true&hide_border=true&count_private=true&rank_icon=github">
   <img width="51%"
      src="https://streak-stats.demolab.com?user=htooaungphyolwin&theme=onedark&hide_border=true&border_radius=3.8" />
+-->
 </div>
-
+<!--
 <div  width="100%">
   <img width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=htooaungphyolwin&layout=compact&theme=onedark&hide_border=true" />
   <img width="65%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=htooaungphyolwin&theme=onedark" />
 </div>
-
 <img width="99.2%" src="https://github-readme-activity-graph.vercel.app/graph/?username=htooaungphyolwin&theme=one-dark&hide_border=true&radius=3.8&height=300&hide_title=true" />
-
+-->
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=htooaungphyolwin&layout=compact&theme=onedark&hide_border=true)
 
